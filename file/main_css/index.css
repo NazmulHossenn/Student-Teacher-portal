@@ -1,0 +1,23 @@
+/* body{
+    display: flex;
+} */
+
+.main-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.767);
+    height: 100vh;
+}
+.copy{
+    color: #dddddd;
+}
+.page_link{
+    display: flex;
+    justify-content: space-between;
+    color: #dddddd;
+    /* margin-top: -49px; */
+}
+.page_link h5 a{
+    color: #dddddd;
+}
